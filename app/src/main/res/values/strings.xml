@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WoW PVP Score Keeper</string>
+    <string name="team_horde">Horde Wins</string>
+    <string name="team_alliance">Alliance Wins</string>
+    <string name="score_display">0</string>
+    <string name="arathi_basin">AB</string>
+    <string name="eye_of_the_storm">EotS</string>
+    <string name="battle_for_gilneas">BfG</string>
+    <string name="deepwind_gorge">DG</string>
+    <string name="silvershard_mines">SM</string>
+    <string name="temple_of_kotmogu">ToK</string>
+    <string name="warsong_gulch">WG</string>
+    <string name="twin_peaks">TP</string>
+    <string name="alterac_valley">AV</string>
+    <string name="strands_of_the_ancients">SoA</string>
+    <string name="isle_of_conquest">IoC</string>
+    <string name="wintergrasp">W</string>
+    <string name="tol_brad">TB</string>
+    <string name="ashran">Ash</string>
+    <string name="reset_button">RESET</string>
+</resources>
